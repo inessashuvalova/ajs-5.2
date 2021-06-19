@@ -1,4 +1,4 @@
-import Bowman from '../_typos/Bowman';
+import Bowman from '../_types/Bowman';
 
 test('Object creation', () => {
   const expectedObject = {
